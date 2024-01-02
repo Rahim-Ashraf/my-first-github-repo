@@ -1,0 +1,29 @@
+div{
+    background-image: url(images/pexels-jill-wellington-39853.jpg);
+    background-size: cover;
+    border: 5px solid salmon;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    background-color: salmon;
+    font-size: 40px;
+    font-style: oblique;
+}
+*{
+    color:aliceblue;
+}
+ul{
+    list-style: none;
+    background-color: sandybrown;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(148, 255, 255);
+}
+.heading{
+    color: firebrick;
+}
